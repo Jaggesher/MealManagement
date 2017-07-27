@@ -1,0 +1,89 @@
+body.cls0{
+	background: url("img/head1.jpg") no-repeat fixed center center;
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.cls{
+	position: absolute;
+	top: 0px;
+	background-color: rgba(0,0,0,.5);
+	width: 100%;
+}
+
+div.cls2{
+	height: 50px;
+	width: 100%;
+	color: white;
+	text-align: center;
+	background: black;
+}
+
+div.Empty{
+	margin:36px auto;
+	height: 36px;
+	max-width: 250px;
+}
+
+.login-block {
+    max-width: 320px;
+    padding: 25px;
+    background: rgba(0,0,0,.6);
+    border-radius: 5px;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 6px 6px -6px #0E1119;
+    -moz-box-shadow: 0 6px 6px -6px #0E1119;
+    box-shadow: 0 6px 6px -6px #0E1119;
+}
+
+.lgin{
+	color: white;
+	font: 30px arial, sans-serif;
+	margin-bottom: 10px;
+}
+
+.login-block input,.cls3 {
+	background-color: rgba(0,0,0,.1);
+	color: white;
+    width: 100%;
+    height: 42px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: thin;
+    font-family: Montserrat;
+    padding: 0 20px 0 20px;
+    outline: none;
+}
+
+.login-block input.redaleart{
+	border-color: red;
+}
+
+.login-block input#email:focus,.login-block input#password:focus{
+	border-color: rgba(0, 128, 255,.7);
+}
+
+.login-block button {
+	margin-top:10px;
+    width: 100%;
+    height: 35px;
+    background: #3366ff;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: 1px solid white;
+    color: white;
+    font-weight: thin;
+    font-size: 14px;
+    font-family: Montserrat;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.login-block button:active{
+	border-color: rgb(0, 128, 255);
+}
