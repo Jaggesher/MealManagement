@@ -12,3 +12,16 @@ Here, most of the calculation system comes from Rajshahi region.
 * `Create Database Named 'mealmanagement'`
 * `Copy And Execute All SQL Command on 'MealManagementDB\BasicDB.sql'`
 * `ENJOY`
+
+
+### Used Technology  ###
+
+* `HTML`
+* `CSS`
+* `Bootstrap`
+* `JQury`
+* `PHP`
+* `MySQL`
+
+
+### `Feel free to modify if you want.`
